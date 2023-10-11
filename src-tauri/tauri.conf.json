@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "github.com/tirus-bot",
+      "identifier": "",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
